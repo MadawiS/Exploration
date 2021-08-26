@@ -1,8 +1,7 @@
 # Exploration
 
-# Ford GoBike System Data
-
-# by Madawi Alkahtani
+Ford GoBike System Data
+by Madawi Alkahtani
 
 # Investigation Overview
 
